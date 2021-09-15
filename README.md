@@ -1,0 +1,2 @@
+# JpaProjectionWithSpecification
+JpaProjectionWithSpecification
